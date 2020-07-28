@@ -1,0 +1,6 @@
+13.45;32;Acer;199.99;1;C:\\Users\\Isabela\\Desktop\\triallab10\\images\\acer.jpg
+15.6;64;Asus;220.99;3;C:\\Users\\Isabela\\Desktop\\triallab10\\images\\asus.jpg
+10.8;64;Lenovo;299.99;2;C:\\Users\\Isabela\\Desktop\\triallab10\\images\\lenovo.jpg
+11.5;31;MacBook;3100;5;C:\\Users\\Isabela\\Desktop\\triallab10\\images\\macbook.jpg
+18;74;MSI;1500;2;C:\\Users\\Isabela\\Desktop\\triallab10\\images\\msi.jpg
+10.8;43;Toshiba;349.99;1;C:\\Users\\Isabela\\Desktop\\triallab10\\images\\toshiba.jpg
